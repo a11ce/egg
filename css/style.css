@@ -1,0 +1,19 @@
+#eggmain {
+  margin-top: 25%;
+  margin-bottom:25%;
+  height: 50%;
+  background-color: #f1f1f155;
+
+}
+
+#goodegg {
+  background-image: url("../img/egg.png");
+  background-size:cover;
+}
+
+#badegg {
+  color: #FFFFFF;
+  background-color: #000000;
+  background-image: url("../img/badegg.png");
+  background-size:cover;
+}
